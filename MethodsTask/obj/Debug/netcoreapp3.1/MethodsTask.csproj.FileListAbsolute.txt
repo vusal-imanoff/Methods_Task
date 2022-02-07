@@ -1,0 +1,14 @@
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\bin\Debug\netcoreapp3.1\MethodsTask.exe
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\bin\Debug\netcoreapp3.1\MethodsTask.deps.json
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\bin\Debug\netcoreapp3.1\MethodsTask.runtimeconfig.json
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\bin\Debug\netcoreapp3.1\MethodsTask.runtimeconfig.dev.json
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\bin\Debug\netcoreapp3.1\MethodsTask.dll
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\bin\Debug\netcoreapp3.1\MethodsTask.pdb
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.AssemblyInfo.cs
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.dll
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.pdb
+C:\Users\PREDATOR\OneDrive\Documents\Classroom_Task\MethodsTask\MethodsTask\obj\Debug\netcoreapp3.1\MethodsTask.genruntimeconfig.cache
